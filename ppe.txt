@@ -1,0 +1,6 @@
+HC Head Cover  s1 100
+FS Face Shield s1 100
+MS Mask        s2 100
+GL Gloves      s2 100
+GW Gown        s3 100
+SC Shoe Covers s3 100
